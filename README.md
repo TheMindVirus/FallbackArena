@@ -5,3 +5,4 @@ Demo: https://themindvirus.github.io/FallbackArena/web/
 
 ![screenshot](https://github.com/themindvirus/FallbackArena/blob/main/screenshot.png)
 ![screenshot](https://github.com/themindvirus/FallbackArena/blob/main/HaloInfinityScreen.png)
+![screenshot](https://github.com/themindvirus/FallbackArena/blob/main/RocketLeagueInfinityScreen.png)
