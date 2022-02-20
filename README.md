@@ -4,3 +4,4 @@ Desktop Virtual Reality Video Player Web Server Digital Twin of SoFi Stadium Mad
 Demo: https://themindvirus.github.io/FallbackArena/web/
 
 ![screenshot](https://github.com/themindvirus/FallbackArena/blob/main/screenshot.png)
+![screenshot](https://github.com/themindvirus/FallbackArena/blob/main/HaloInfinityScreen.png)
